@@ -10,3 +10,7 @@ In the first step, an initial model of the background is computed, while in the 
 
 
 
+
+https://github.com/bakhshiintel/background-subtraction/assets/98385786/a49fa1c6-b7fa-4c3b-8b99-a3aafe41b192
+
+
